@@ -10,3 +10,5 @@
 ## Requirements:
 * TWRP
 
+## Usage:
+Flash it via TWRP, done
